@@ -4,7 +4,7 @@ https://discord.gg/djgEuskX9h
 --
 BoBeeBeatz.jpg
 --
-BobeeBeatz
+서버
 `;
 
 export {db} 
