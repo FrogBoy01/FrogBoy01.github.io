@@ -1,7 +1,6 @@
 let db = `
 
-
-https://discord.gg/6ePN9bxXRx
+https://discord.gg/djgEuskX9h
 --
 BoBeeBeatz.jpg
 --
