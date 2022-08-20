@@ -1,7 +1,7 @@
 
 let profile = document.getElementById('profile')
 let guildsButton = document.getElementById('guildsButton')
-let guilds = document.getElementById('길드')
+let guilds = document.getElementById('')
 
 let back = document.getElementById('back')
 
